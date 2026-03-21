@@ -30,5 +30,20 @@ Visualizes and analyzes medical examination data using Pandas, Seaborn, and Matp
 ## Tech Used
 - Python
 - Pandas
+
+# Page View Time Series Visualizer
+
+freeCodeCamp Data Analysis with Python project.
+
+## Description
+Visualizes time series data using line, bar, and box plots.
+
+## Tech
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
+
+
 - Matplotlib
 - Seaborn
